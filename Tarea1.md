@@ -1,4 +1,6 @@
-Conceptos 
+##Temas relevantes del cómputo movil
+
+###Conceptos 
 
 Cómputo móvil 
 
@@ -8,7 +10,7 @@ Aplicaciones móviles
 Tecnologías de acceso y redes
 
 
-Categorias
+###Categorias
 
 Computo móvil como un ecosistema
 
