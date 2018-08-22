@@ -1,6 +1,6 @@
-##Temas relevantes del cómputo movil
+**Temas relevantes del cómputo movil**
 
-###Conceptos 
+**Conceptos**
 
 Cómputo móvil 
 
@@ -10,7 +10,7 @@ Aplicaciones móviles
 Tecnologías de acceso y redes
 
 
-###Categorias
+**Categorias**
 
 Computo móvil como un ecosistema
 
@@ -28,7 +28,8 @@ Microsoft
 
 
 
-Referencias
+**Referencias**
+
 https://repository.eafit.edu.co/bitstream/handle/10784/2789/5.%20capitulos.pdf?sequence=5&isAllowed=y
 
 https://searchdatacenter.techtarget.com/es/cronica/Tendencias-de-tecnologia-movil-sobre-las-que-estar-alertas-en-2017
